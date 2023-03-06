@@ -1,3 +1,7 @@
+# Screenshots
+![screen1](https://github.com/dalkiran1907/IMDB-Clone/blob/main/src/img/screen1.png)
+![screen2](https://github.com/dalkiran1907/IMDB-Clone/blob/main/src/img/screen2.png)
+![screen3](https://github.com/dalkiran1907/IMDB-Clone/blob/main/src/img/screen3.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
